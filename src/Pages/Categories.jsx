@@ -3,7 +3,7 @@ import { FaArrowLeft, FaArrowRight } from 'react-icons/fa'
 import phone from "../assets/phone.png"
 import computer from "../assets/computer.png"
 import smartWatch from "../assets/smartwatch.png"
-import camera from "../assets/Category-camera.png"
+import camera from "../assets/Category-Camera.png"
 import headphone from "../assets/Category-Headphone.png"
 import gaming from "../assets/Category-Gamepad.png"
 import CategoryCard from './CategoryCard'
