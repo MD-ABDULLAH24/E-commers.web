@@ -1,5 +1,5 @@
 import React from 'react'
-import playStation from "../assets/playStation.png"
+import playStation from "../assets/playstation.png"
 import spekars from "../assets/spekars.png"
 import women from "../assets/women.png"
 import perfume from "../assets/perfume.png"
