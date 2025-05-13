@@ -19,7 +19,7 @@ function Navbar() {
         <div className='border-b-[0.5px] border-[rgba(0,0,0,0.3)] pb-4'>
             <NavHeading headline='Summer Sale For All Swim Suits And Free Express Delivery - OFF 50%!' />
             <nav className='container items-center flex justify-between pt-4 lg:pt-10'>
-                <Link to='/' className='font-bold text-[20px] lg:text-2xl '>EcomVerse</Link>
+                <Link to='/' className='font-bold text-[20px] lg:text-2xl '>Exclusive</Link>
                 <NavMenu />
 
                 <div className='flex gap-6 items-center'>
